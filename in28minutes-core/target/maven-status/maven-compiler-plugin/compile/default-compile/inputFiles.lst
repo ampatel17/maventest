@@ -1,0 +1,12 @@
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/impl/TodoDataServiceImpl.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/TodoItemList.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/impl/TodoServiceImpl.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/TodoItem.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/Priority.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/api/TodoDataService.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/domain/User.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/api/UserDataService.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/api/TodoService.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/api/UserService.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/service/impl/UserServiceImpl.java
+/Users/CA/git/MavenIn28Minutes/4.web-application-with-maven/in28minutes-core/src/main/java/com/in28minutes/data/impl/UserDataServiceImpl.java
